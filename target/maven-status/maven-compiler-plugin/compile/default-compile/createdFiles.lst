@@ -1,0 +1,9 @@
+org\uv\tpcs_practica04\entity\Cliente.class
+org\uv\tpcs_practica04\entity\DAOCliente.class
+org\uv\tpcs_practica04\HibernateUtil.class
+org\uv\tpcs_practica04\entity\VentaDetalle.class
+org\uv\tpcs_practica04\entity\DAOProducto.class
+org\uv\tpcs_practica04\entity\Venta.class
+org\uv\tpcs_practica04\entity\IDAOGeneral.class
+org\uv\tpcs_practica04\TPCS_Practica04.class
+org\uv\tpcs_practica04\entity\Producto.class
